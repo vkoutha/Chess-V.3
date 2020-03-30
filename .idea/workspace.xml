@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5072f0ef-65f2-491a-be71-fc07c0d013db" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZeYGCJE8r3aqz7OtwTrejfw1L3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/git/Chess-V.-2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\vkout\IdeaProjects\Chess V.3\res\audio" />
+      <recent name="C:\Users\vkout\IdeaProjects\Chess V.3\res\img" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5072f0ef-65f2-491a-be71-fc07c0d013db" name="Default Changelist" comment="" />
+      <created>1585200928103</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585200928103</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="558" y="192" key="#com.intellij.ide.util.MemberChooser" timestamp="1585282281810">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="558" y="192" key="#com.intellij.ide.util.MemberChooser/0.0.1504.963@0.0.1504.963" timestamp="1585282281810" />
+    <state x="533" y="238" key="FileChooserDialogImpl" timestamp="1585462158161">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="533" y="238" key="FileChooserDialogImpl/0.0.1504.963@0.0.1504.963" timestamp="1585462158161" />
+    <state x="488" y="376" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1585546549521">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="488" y="376" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1504.963@0.0.1504.963" timestamp="1585546549521" />
+    <state x="267" y="72" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1585553406179">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="267" y="72" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1504.963@0.0.1504.963" timestamp="1585553406179" />
+    <state x="409" y="222" key="run.anything.popup" timestamp="1585550007754">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="409" y="222" key="run.anything.popup/0.0.1504.963@0.0.1504.963" timestamp="1585550007754" />
+    <state x="415" y="206" width="672" height="678" key="search.everywhere.popup" timestamp="1585549912795">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="415" y="206" width="672" height="678" key="search.everywhere.popup/0.0.1504.963@0.0.1504.963" timestamp="1585549912795" />
+  </component>
+</project>
